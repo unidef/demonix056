@@ -47,3 +47,11 @@ CURRENTLY WIP !!!
 KEEP YOUR EYES PEELED FOR A 2026-2030 RELEASE!!!
 
 **DEMONIX056 IS A SERVER OPERATING SYSTEM KERNEL; POSSIBLY MADE FOR VIRTUALIZED ENVIRONMENTS)**
+
+todo: add sql database interface for userland tools
+
+possible sql kernel driver if corruption not found
+
+possible ncurses fork
+
+possible intergrated xorg server.. will try to find a consultant due to inherant problems in x11 server lol
